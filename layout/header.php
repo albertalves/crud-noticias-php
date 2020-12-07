@@ -16,6 +16,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <title>Albert Teste</title>
 		<link rel="stylesheet" href="assets/css/style.css" />
+		<script src='script.js'></script>
 	</head>
 	<body>  
     <header>
